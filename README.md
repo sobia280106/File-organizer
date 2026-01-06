@@ -1,12 +1,44 @@
-# File Organizer Project
+# 📁 File Organizer Project
 
-This Python program organizes files in a folder into separate directories based on file types like images, documents, videos, and audio.
+## 📌 Description
+This project is a Python-based File Organizer that automatically organizes files in a directory based on their file types. It helps keep folders clean and structured by sorting files into categorized subfolders.
 
-## About File Organizers
+---
 
-- **Ranger** – A console-based file manager for Linux with keyboard navigation. [Learn more](https://en.wikipedia.org/wiki/Ranger_%28file_manager%29)
-- **XYplorer** – A Windows file manager with advanced search, tags, and customizable views. [Learn more](https://en.wikipedia.org/wiki/XYplorer)
-- **Tabbles** – A tagging-based file organizer that groups files through tags rather than folders. [Learn more](https://en.wikipedia.org/wiki/Tabbles)
-- **Cloud file managers** – Google Drive, Dropbox, OneDrive, etc.
+## ⚙️ Features
+- Automatically detects file extensions
+- Creates folders for each file type
+- Moves files into respective folders
+- Simple and beginner-friendly Python code
+- Prevents overwriting of files
 
-This project demonstrates a simple Python-based file organizer that automatically categorizes files in a folder, helping users save time and maintain a clean workspace.
+---
+
+## 🛠️ Technologies Used
+- Python 3
+- OS module
+- shutil module
+- Git & GitHub
+
+---
+
+## 🧠 About File Organizers
+File organizers are tools used to manage files efficiently by arranging them into folders based on type, date, or usage.
+
+### Examples:
+- **Ranger** – Terminal-based file manager for Linux
+- **XYplorer** – Advanced file manager for Windows
+- **TagSpaces** – Tag-based file organization system
+- **Cloud Organizers** – Google Drive, Dropbox
+
+---
+
+## 🚀 How to Run
+1. Place `organizer.py` in the target folder
+2. Run the program:3. Files will be organized automatically
+
+---
+
+## 👩‍💻 Author
+Sobia Fatima  
+GitHub: https://github.com/sobia280106
